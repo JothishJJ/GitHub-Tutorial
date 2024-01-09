@@ -17,3 +17,5 @@ export function Mechanic() {
 }
 
 console.log("Hi");
+
+console.log("Hey")
