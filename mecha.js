@@ -15,3 +15,5 @@ export function mecha() {
 export function Mechanic() {
     return mecha() + "nic";
 }
+
+console.log("Hi");
